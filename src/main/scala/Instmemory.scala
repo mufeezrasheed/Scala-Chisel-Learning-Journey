@@ -10,5 +10,5 @@ class instmemory extends Module {
 	io.rdData := mem.read(io.wrAddr)
 	loadMemoryFromFile(mem,"/home/mufeez/Scala-Chisel-Learning-Journey/instmem.txt")
 }
-
+//memory file
   
